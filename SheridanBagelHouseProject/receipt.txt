@@ -1,0 +1,5 @@
+1 Bagel with toppings:    2.25
+1 Coffee:    2.0
+Subtotal:    3.5
+tax:    0.46
+Total:    3.96
