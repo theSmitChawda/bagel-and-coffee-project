@@ -1,2 +1,8 @@
 # bagel-and-coffee-project
-A simple bagel and cofee shop that can generate receipts and use the printing fucntion to print those receipts.
+------------------------------------------------------
+### Java | JavaFx | MVC
+
+> A simple bagel and coffee shop that can generate receipts and use the printing fucntion to print those receipts via any connected printer.
+
+------------------------------------------------------
+Created by: Smit Chawda
